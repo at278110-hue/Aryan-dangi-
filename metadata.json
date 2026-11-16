@@ -1,0 +1,8 @@
+{
+  "name": "Berasia Property Adda",
+  "description": "Company-mediated property marketplace for buying, selling, and renting houses, plots, agricultural land, and commercial spaces in Berasia, Bhopal District, Madhya Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
